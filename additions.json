@@ -1,5 +1,174 @@
 {
     "CVE-2021-33570": [
         "https://tridentsec.io/blogs/postbird-cve-2021-33570/"
+    ],
+    "CVE-2020-1938": [
+        "https://www.tryhackme.com/room/tomghost"
+    ],
+    "CVE-2020-1472": [
+        "https://www.tryhackme.com/room/zer0logon",
+        "https://www.hackthebox.eu/home/machines/profile/232"
+    ],
+    "CVE-2019-9053": [
+        "https://www.hackthebox.eu/home/machines/profile/192"
+    ],
+    "CVE-2019-7304": [
+        "https://www.hackthebox.eu/home/machines/profile/160"
+    ],
+    "CVE-2019-18634": [
+        "https://www.tryhackme.com/room/cherryblossom",
+        "https://www.tryhackme.com/room/hackernote",
+        "https://www.tryhackme.com/room/sudovulnsbof"
+    ],
+    "CVE-2019-17501": [
+        "https://www.hackthebox.eu/home/machines/profile/208"
+    ],
+    "CVE-2019-15949": [
+        "https://www.tryhackme.com/room/nax"
+    ],
+    "CVE-2019-15107": [
+        "https://www.tryhackme.com/room/source"
+    ],
+    "CVE-2019-14827": [
+        "https://www.hackthebox.eu/home/machines/profile/254"
+    ],
+    "CVE-2019-14287": [
+        "https://www.tryhackme.com/room/sudovulnsbypass"
+    ],
+    "CVE-2019-1414": [
+        "https://www.hackthebox.eu/home/machines/profile/232"
+    ],
+    "CVE-2019-1388": [
+        "https://www.tryhackme.com/room/blaster"
+    ],
+    "CVE-2019-13024": [
+        "https://www.hackthebox.eu/home/machines/profile/208"
+    ],
+    "CVE-2019-12840": [
+        "https://www.hackthebox.eu/home/machines/profile/215"
+    ],
+    "CVE-2019-10149": [
+        "https://www.hackthebox.eu/home/machines/profile/202"
+    ],
+    "CVE-2018-8897": [
+        "https://www.hackthebox.eu/home/machines/profile/168"
+    ],
+    "CVE-2018-8007": [
+        "https://www.hackthebox.eu/home/machines/profile/134"
+    ],
+    "CVE-2018-7600": [
+        "https://www.hackthebox.eu/home/machines/profile/7",
+        "https://www.hackthebox.eu/home/machines/profile/146"
+    ],
+    "CVE-2018-6789": [
+        "https://www.hackthebox.eu/home/machines/profile/163"
+    ],
+    "CVE-2018-20253": [
+        "https://www.hackthebox.eu/home/machines/profile/198"
+    ],
+    "CVE-2018-19798": [
+        "https://www.hackthebox.eu/home/machines/profile/216"
+    ],
+    "CVE-2018-18955": [
+        "https://www.hackthebox.eu/home/machines/profile/145"
+    ],
+    "CVE-2018-18925": [
+        "https://www.hackthebox.eu/home/machines/profile/187"
+    ],
+    "CVE-2018-17246": [
+        "https://www.hackthebox.eu/home/machines/profile/195"
+    ],
+    "CVE-2018-15473": [
+        "https://www.hackthebox.eu/home/machines/profile/135"
+    ],
+    "CVE-2018-15133": [
+        "https://www.hackthebox.eu/home/machines/profile/11"
+    ],
+    "CVE-2018-14665": [
+        "https://www.hackthebox.eu/home/machines/profile/154"
+    ],
+    "CVE-2018-12613": [
+        "https://www.hackthebox.eu/home/machines/profile/194"
+    ],
+    "CVE-2018-1133": [
+        "https://www.hackthebox.eu/home/machines/profile/165"
+    ],
+    "CVE-2017-9805": [
+        "https://www.hackthebox.eu/home/machines/profile/129"
+    ],
+    "CVE-2017-9362": [
+        "https://www.hackthebox.eu/home/machines/profile/180"
+    ],
+    "CVE-2017-9101": [
+        "https://www.hackthebox.eu/home/machines/profile/158"
+    ],
+    "CVE-2017-7494": [
+        "https://www.hackthebox.eu/home/machines/profile/2"
+    ],
+    "CVE-2017-7269": [
+        "https://www.hackthebox.eu/home/machines/profile/13"
+    ],
+    "CVE-2017-7199": [
+        "https://www.hackthebox.eu/home/machines/profile/142"
+    ],
+    "CVE-2017-6074": [
+        "https://www.hackthebox.eu/home/machines/profile/118"
+    ],
+    "CVE-2017-16995": [
+        "https://www.hackthebox.eu/home/machines/profile/170"
+    ],
+    "CVE-2017-11511": [
+        "https://www.hackthebox.eu/home/machines/profile/180"
+    ],
+    "CVE-2017-0199": [
+        "https://www.hackthebox.eu/home/machines/profile/143"
+    ],
+    "CVE-2017-0148": [
+        "https://www.tryhackme.com/room/blue"
+    ],
+    "CVE-2017-0147": [
+        "https://www.tryhackme.com/room/blue"
+    ],
+    "CVE-2017-0146": [
+        "https://www.tryhackme.com/room/blue"
+    ],
+    "CVE-2017-0145": [
+        "https://www.tryhackme.com/room/blue"
+    ],
+    "CVE-2017-0143": [
+        "https://www.tryhackme.com/room/blue"
+    ],
+    "CVE-2016-3672": [
+        "https://www.hackthebox.eu/home/machines/profile/37"
+    ],
+    "CVE-2016-3115": [
+        "https://www.hackthebox.eu/home/machines/profile/196"
+    ],
+    "CVE-2015-7501": [
+        "https://www.tryhackme.com/room/tonythetiger"
+    ],
+    "CVE-2015-6967": [
+        "https://www.hackthebox.eu/home/machines/profile/121"
+    ],
+    "CVE-2015-6668": [
+        "https://www.hackthebox.eu/home/machines/profile/8"
+    ],
+    "CVE-2012-1675": [
+        "https://www.hackthebox.eu/home/machines/profile/131"
+    ],
+    "CVE-2011-1249": [
+        "https://www.hackthebox.eu/home/machines/profile/3"
+    ],
+    "CVE-2010-0832": [
+        "https://www.hackthebox.eu/home/machines/profile/4"
+    ],
+    "CVE-2009-3843": [
+        "https://www.hackthebox.eu/home/machines/profile/101"
+    ],
+    "CVE-2008-0166": [
+        "https://www.hackthebox.eu/home/machines/profile/171"
+    ],
+    "CVE-2007-2447": [
+        "https://www.hackthebox.eu/home/machines/profile/1"
     ]
 }
